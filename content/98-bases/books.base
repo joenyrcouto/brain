@@ -1,0 +1,29 @@
+summaries:
+  Median: ""
+  Empty: values.filter(value.isType("null")).length
+  Min: values.min()
+  new summary: values.reduce()
+formulas:
+  Progresso: pag_atual/pag_total
+views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.inFolder("99 Arquivos brutos/Biblioteca")
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - autor/DOI
+      - formula.Progresso
+      - tipo
+      - nota
+      - data_inicio
+    sort:
+      - property: Status
+        direction: DESC
+      - property: formula.Progresso
+        direction: DESC
+    summaries: {}
