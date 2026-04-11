@@ -1,7 +1,8 @@
 ---
-tipo: permanente  
+tipo: permanente
 tags:
   - (Substitua por um `#` para selecionar uma tag criada, depois tire ele. Tags novas é só escrever sem o hashtag, senão não os seram salvas)
+  - permanente
 criado_em: 2026-03-05 02:44
 ---
   

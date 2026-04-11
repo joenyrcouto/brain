@@ -1,0 +1,305 @@
+=== Preview Log === sex 10 abr 2026 20:50:44
+
+[stderr] [1mpandoc [22m
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] [1mmetadata[22m
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] [32mBrowse at [39m[4m[32mhttp://localhost:4445/Aula 2.html[39m[24m
+[stderr] Listening on http://127.0.0.1:4445/
+[stderr] 
+[stderr] [31mGET: /Aula (404: Not Found)[39m
+[stderr] 
+[stderr] [31mGET: / (404: Not Found)[39m
+[stderr] 
+[stderr] [31mGET: / (404: Not Found)[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr] 
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] [1mmetadata[22m
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr] 
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] [1mmetadata[22m
+[stderr] 
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr] 
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] 
+[stderr] [1mmetadata[22m
+[stderr] 
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] 
+[stderr] [1mmetadata[22m
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] [1mmetadata[22m
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr] 
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] [1mmetadata[22m
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr] 
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] 
+[stderr] [1mmetadata[22m
+[stderr] 
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]     - ifsc_curso_priteínas
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr] 
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] [1mmetadata[22m
+[stderr] 
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+[stderr] [1mpandoc [22m
+[stderr] 
+[stderr]   to: html
+[stderr]   output-file: Aula 2.html
+[stderr]   standalone: true
+[stderr]   section-divs: true
+[stderr]   html-math-method: mathjax
+[stderr]   wrap: none
+[stderr]   default-image-extension: png
+[stderr]   variables: {}
+[stderr]   
+[stderr] [1mmetadata[22m
+[stderr] 
+[stderr]   document-css: false
+[stderr]   link-citations: true
+[stderr]   date-format: long
+[stderr]   lang: en
+[stderr]   engines:
+[stderr]     - path: /opt/quarto/share/extension-subtrees/julia-engine/_extensions/julia-engine/julia-engine.js
+[stderr]   tipo: caixa-de-entrada
+[stderr]   tags:
+[stderr]     - caixa-de-entrada
+[stderr]     - ifsc/curso/proteínas
+[stderr]   criado_em: 2026-03-02 00:40
+[stderr]   
+[stderr] 
+[stderr] Output created: Aula 2.html
+[stderr] 
+[stderr] 
+[stderr] [32mWatching files for changes[39m
+[stderr] 
+
+[stderr] 

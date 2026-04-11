@@ -1,7 +1,9 @@
 ---
-tipo: caixa-de-entrada  
-tags: [caixa-de-entrada]  
-criado_em: 2026-03-02 00:40  
+tipo: caixa-de-entrada
+tags:
+  - caixa-de-entrada
+  - ifsc/curso/física/ma
+criado_em: 2026-03-02 00:40
 ---
 
 ## Arfken 9.2

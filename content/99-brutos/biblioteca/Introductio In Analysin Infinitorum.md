@@ -1,7 +1,7 @@
 ---
-autor/DOI: T. R. Malthus
+autor/DOI: Leonhardo Eulero
 tipo: 
-- Livro
+- Artigo
 pag_atual: 0
 pag_total: 0
 Status: 0 # (não lido), 1 (lido), 2 (lendo)
@@ -9,10 +9,10 @@ nota:
   - (⭐ null)
 data_inicio: 2026-03-05 02:44
 tags:
-  - Bioestatística
+  - Bioestatística 
 ---
 
-[[Biblioteca.base]]
+[[books.base]]
 
 ## Links inversos
 ```dataview

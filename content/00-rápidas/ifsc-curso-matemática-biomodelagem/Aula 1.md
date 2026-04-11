@@ -1,7 +1,9 @@
 ---
-tipo: caixa-de-entrada  
-tags: [caixa-de-entrada]  
-criado_em: 2026-03-02 00:40  
+tipo: caixa-de-entrada
+tags:
+  - caixa-de-entrada
+  - ifsc/curso/matemática/biologia/modelagem
+criado_em: 2026-03-02 00:40
 ---
 
 Modelagem sobre indivíduos: Para as condições iniciais, pensamos em motivações como sobrevivência e reprodutividade.

@@ -1,5 +1,5 @@
 ---
-autor/DOI: G. Arfken, H. J. Weber e F. E. Harris
+autor/DOI: Gerald B. Folland
 tipo: 
 - Livro
 pag_atual: 0
@@ -7,12 +7,12 @@ pag_total: 0
 Status: 0 # (não lido), 1 (lido), 2 (lendo)
 nota: 
   - (⭐ null)
-data_inicio: 2026-03-04 17:19
-tags: 
-  - matemática 
+data_inicio: 2026-03-04 17:26
+tags:
+  - matemática
 ---
 
-[[Biblioteca.base]]
+[[books.base]]
 
 ## Links inversos
 ```dataview

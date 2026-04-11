@@ -1,7 +1,9 @@
 ---
-tipo: caixa-de-entrada  
-tags: [caixa-de-entrada]  
-criado_em: 2026-03-02 00:40  
+tipo: caixa-de-entrada
+tags:
+  - caixa-de-entrada
+  - ifsc/curso/proteínas
+criado_em: 2026-03-02 00:40
 ---
 
 E. Coli é encontrado em esgotos e pode causar intoxicação alimentar.

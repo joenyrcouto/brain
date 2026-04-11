@@ -1,7 +1,9 @@
 ---
-tipo: caixa-de-entrada  
-tags: [caixa-de-entrada]  
-criado_em: 2026-03-02 00:40  
+tipo: caixa-de-entrada
+tags:
+  - caixa-de-entrada
+  - ifsc/curso/matemática/biologia/modelagem
+criado_em: 2026-03-02 00:40
 ---
 
 T. R. Malthus define o crescimento populacional de uma maneira Darwiniana, com uma visão materialista e competitiva da matéria, e apela a dizer que as pessoas deveriam fazer o "sacrifício" de ter menos filhos para evitar um fim catastrófico.

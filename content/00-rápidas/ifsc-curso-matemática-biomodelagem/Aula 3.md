@@ -1,7 +1,9 @@
 ---
-tipo: caixa-de-entrada  
-tags: [caixa-de-entrada]  
-criado_em: 2026-03-02 00:40  
+tipo: caixa-de-entrada
+tags:
+  - caixa-de-entrada
+  - ifsc/curso/matemática/biologia/modelagem
+criado_em: 2026-03-02 00:40
 ---
 
 Taxa per capita geral: $\frac{\Delta P}{P}=r\left( 1-\frac{P}{K} \right)$

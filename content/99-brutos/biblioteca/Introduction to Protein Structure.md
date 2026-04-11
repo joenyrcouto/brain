@@ -12,7 +12,7 @@ tags:
   - Bioquímica 
 ---
 
-[[Biblioteca.base]]
+[[books.base]]
 
 ## Links inversos
 ```dataview

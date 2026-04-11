@@ -1,5 +1,5 @@
 ---
-autor/DOI: Gerald B. Folland
+autor/DOI: Arthur M. Lesk
 tipo: 
 - Livro
 pag_atual: 0
@@ -7,12 +7,12 @@ pag_total: 0
 Status: 0 # (não lido), 1 (lido), 2 (lendo)
 nota: 
   - (⭐ null)
-data_inicio: 2026-03-04 17:26
+data_inicio: 2026-03-05 02:19
 tags:
-  - matemática
+  - Bioquímica 
 ---
 
-[[Biblioteca.base]]
+[[books.base]]
 
 ## Links inversos
 ```dataview

@@ -12,7 +12,7 @@ tags:
   - Bioestatística
 ---
 
-[[Biblioteca.base]]
+[[books.base]]
 
 ## Links inversos
 ```dataview

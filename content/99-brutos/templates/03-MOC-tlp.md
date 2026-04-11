@@ -1,5 +1,8 @@
 ---
-tipo: moc  
+tipo: moc
+tags:
+  - moc
+  - "#review"
 ---
 
 ## Estrutura Principal (Curadoria Manual)  
